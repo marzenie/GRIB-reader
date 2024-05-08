@@ -63,7 +63,6 @@ Longitude of last grid point: 60 degrees
 Longitudinal Direction Increment: 65 degrees
 Latitudinal Direction Increment: 1 degrees
 Scanning mode flags : Points scan in -i and +j direction: (FORTRAN: (I,J))
-0
 Wiersz 1 Punktow: 73
 Wiersz 2 Punktow: 73
 Wiersz 3 Punktow: 73
