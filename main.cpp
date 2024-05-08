@@ -418,7 +418,7 @@ std::cout << R"(
 
 	for (int i = 1; i <= num_points_along_longitude_meridian; i++) {
 		binary = "";
-		int end = (vert_coord_nr == 0) ? 2 : 4;
+		int end = (vert_coord_nr === 0) ? 2 : 4;
 		for (int j = 0; j < end; ++j) {
 			grib.read(&byte_char, 1);
 			binary += std::bitset<8>((int)byte_char).to_string();
@@ -426,7 +426,7 @@ std::cout << R"(
 		cout << "Wiersz " << i << " Punktow: " << std::stoi(binary, nullptr, 2) << " \n";
 
 
-	}
+	} 
 
 
 	std::cout << R"(
