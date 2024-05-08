@@ -411,14 +411,18 @@ std::cout << R"(
 
 	cout << "Scanning mode flags : Points scan in " << ((i_pp) ? "+i" : "-i") << " and " << ((j_pp) ? "+j" : "-j") << " direction: " << ((I_priority) ? "(FORTRAN: (I,J))" : "(FORTRAN: (J,I))") << "\n";
 
-	for (int i = 1; (i + 28) <= octet_nr; ++i) { // skip to map with points
+	for (int i = 1; (i + 28) < octet_nr; ++i) { // skip to map with points
 		grib.read(&byte_char, 1);
 	}
-		cout << int(byte_char) << "\n";
+
 	for (int i = 1; i <= num_points_along_longitude_meridian; i++) {
-		grib.read(&byte_char, 1);
-		cout << "Wiersz " << i << " Punktow: " << int(byte_char) << " \n";
-		grib.read(&byte_char, 1);
+		binary = "";
+		for (int i = 0; i < 2; ++i) {
+			grib.read(&byte_char, 1);
+			binary += std::bitset<8>((int)byte_char).to_string();
+		}
+		cout << "Wiersz " << i << " Punktow: " << std::stoi(binary, nullptr, 2) << " \n";
+
 
 	}
 
