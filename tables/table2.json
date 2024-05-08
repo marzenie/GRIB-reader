@@ -1,0 +1,1284 @@
+[
+   {
+      "0":{
+         "PARAMETER":"Reserved",
+         "UNITS":"",
+         "ABBREV.":""
+      },
+      "1":{
+         "PARAMETER":"Pressure",
+         "UNITS":"Pa",
+         "ABBREV.":"PRES"
+      },
+      "2":{
+         "PARAMETER":"Pressure reduced to MSL",
+         "UNITS":"Pa",
+         "ABBREV.":"PRMSL"
+      },
+      "3":{
+         "PARAMETER":"Pressure tendency",
+         "UNITS":"Pa/s",
+         "ABBREV.":"PTEND"
+      },
+      "4":{
+         "PARAMETER":"Potential vorticity",
+         "UNITS":"K m2 kg-1 s-1",
+         "ABBREV.":"PVORT"
+      },
+      "5":{
+         "PARAMETER":"ICAO Standard Atmosphere Reference Height",
+         "UNITS":"m",
+         "ABBREV.":"ICAHT"
+      },
+      "6":{
+         "PARAMETER":"Geopotential",
+         "UNITS":"m2/s2",
+         "ABBREV.":"GP"
+      },
+      "7":{
+         "PARAMETER":"Geopotential height",
+         "UNITS":"gpm",
+         "ABBREV.":"HGT"
+      },
+      "8":{
+         "PARAMETER":"Geometric height",
+         "UNITS":"m",
+         "ABBREV.":"DIST"
+      },
+      "9":{
+         "PARAMETER":"Standard deviation of height",
+         "UNITS":"m",
+         "ABBREV.":"HSTDV"
+      },
+      "10":{
+         "PARAMETER":"Total ozone",
+         "UNITS":"Dobson",
+         "ABBREV.":"TOZNE"
+      },
+      "11":{
+         "PARAMETER":"Temperature",
+         "UNITS":"K",
+         "ABBREV.":"TMP"
+      },
+      "12":{
+         "PARAMETER":"Virtual temperature",
+         "UNITS":"K",
+         "ABBREV.":"VTMP"
+      },
+      "13":{
+         "PARAMETER":"Potential temperature",
+         "UNITS":"K",
+         "ABBREV.":"POT"
+      },
+      "14":{
+         "PARAMETER":"Pseudo-adiabatic potential temperature or equivalent potential temperature",
+         "UNITS":"K",
+         "ABBREV.":"EPOT"
+      },
+      "15":{
+         "PARAMETER":"Maximum temperature",
+         "UNITS":"K",
+         "ABBREV.":"TMAX"
+      },
+      "16":{
+         "PARAMETER":"Minimum temperature",
+         "UNITS":"K",
+         "ABBREV.":"TMIN"
+      },
+      "17":{
+         "PARAMETER":"Dew point temperature",
+         "UNITS":"K",
+         "ABBREV.":"DPT"
+      },
+      "18":{
+         "PARAMETER":"Dew point depression (or deficit)",
+         "UNITS":"K",
+         "ABBREV.":"DEPR"
+      },
+      "19":{
+         "PARAMETER":"Lapse rate",
+         "UNITS":"K/m",
+         "ABBREV.":"LAPR"
+      },
+      "20":{
+         "PARAMETER":"Visibility",
+         "UNITS":"m",
+         "ABBREV.":"VIS"
+      },
+      "21":{
+         "PARAMETER":"Radar Spectra (1)",
+         "UNITS":"-",
+         "ABBREV.":"RDSP1"
+      },
+      "22":{
+         "PARAMETER":"Radar Spectra (2)",
+         "UNITS":"-",
+         "ABBREV.":"RDSP2"
+      },
+      "23":{
+         "PARAMETER":"Radar Spectra (3)",
+         "UNITS":"-",
+         "ABBREV.":"RDSP3"
+      },
+      "24":{
+         "PARAMETER":"Parcel lifted index (to 500 hPa)",
+         "UNITS":"K",
+         "ABBREV.":"PLI"
+      },
+      "25":{
+         "PARAMETER":"Temperature anomaly",
+         "UNITS":"K",
+         "ABBREV.":"TMPA"
+      },
+      "26":{
+         "PARAMETER":"Pressure anomaly",
+         "UNITS":"Pa",
+         "ABBREV.":"PRESA"
+      },
+      "27":{
+         "PARAMETER":"Geopotential height anomaly",
+         "UNITS":"gpm",
+         "ABBREV.":"GPA"
+      },
+      "28":{
+         "PARAMETER":"Wave Spectra (1)",
+         "UNITS":"",
+         "ABBREV.":"WVSP1"
+      },
+      "29":{
+         "PARAMETER":"Wave Spectra (2)",
+         "UNITS":"",
+         "ABBREV.":"WVSP2"
+      },
+      "30":{
+         "PARAMETER":"Wave Spectra (3)",
+         "UNITS":"",
+         "ABBREV.":"WVSP3"
+      },
+      "31":{
+         "PARAMETER":"Wind direction (from which blowing)",
+         "UNITS":"deg true",
+         "ABBREV.":"WDIR"
+      },
+      "32":{
+         "PARAMETER":"Wind speed",
+         "UNITS":"m/s",
+         "ABBREV.":"WIND"
+      },
+      "33":{
+         "PARAMETER":"u-component of wind",
+         "UNITS":"m/s",
+         "ABBREV.":"UGRD"
+      },
+      "34":{
+         "PARAMETER":"v-component of wind",
+         "UNITS":"m/s",
+         "ABBREV.":"VGRD"
+      },
+      "35":{
+         "PARAMETER":"Stream function",
+         "UNITS":"m2/s",
+         "ABBREV.":"STRM"
+      },
+      "36":{
+         "PARAMETER":"Velocity potential",
+         "UNITS":"m2/s",
+         "ABBREV.":"VPOT"
+      },
+      "37":{
+         "PARAMETER":"Montgomery stream function",
+         "UNITS":"m2/s2",
+         "ABBREV.":"MNTSF"
+      },
+      "38":{
+         "PARAMETER":"Sigma coordinate vertical velocity",
+         "UNITS":"/s",
+         "ABBREV.":"SGCVV"
+      },
+      "39":{
+         "PARAMETER":"Vertical velocity (pressure)",
+         "UNITS":"Pa/s",
+         "ABBREV.":"VVEL"
+      },
+      "40":{
+         "PARAMETER":"Vertical velocity (geometric)",
+         "UNITS":"m/s",
+         "ABBREV.":"DZDT"
+      },
+      "41":{
+         "PARAMETER":"Absolute vorticity",
+         "UNITS":"/s",
+         "ABBREV.":"ABSV"
+      },
+      "42":{
+         "PARAMETER":"Absolute divergence",
+         "UNITS":"/s",
+         "ABBREV.":"ABSD"
+      },
+      "43":{
+         "PARAMETER":"Relative vorticity",
+         "UNITS":"/s",
+         "ABBREV.":"RELV"
+      },
+      "44":{
+         "PARAMETER":"Relative divergence",
+         "UNITS":"/s",
+         "ABBREV.":"RELD"
+      },
+      "45":{
+         "PARAMETER":"Vertical u-component shear",
+         "UNITS":"/s",
+         "ABBREV.":"VUCSH"
+      },
+      "46":{
+         "PARAMETER":"Vertical v-component shear",
+         "UNITS":"/s",
+         "ABBREV.":"VVCSH"
+      },
+      "47":{
+         "PARAMETER":"Direction of current",
+         "UNITS":"Degree true",
+         "ABBREV.":"DIRC"
+      },
+      "48":{
+         "PARAMETER":"Speed of current",
+         "UNITS":"m/s",
+         "ABBREV.":"SPC"
+      },
+      "49":{
+         "PARAMETER":"u-component of current",
+         "UNITS":"m/s",
+         "ABBREV.":"UOGRD"
+      },
+      "50":{
+         "PARAMETER":"v-component of current",
+         "UNITS":"m/s",
+         "ABBREV.":"VOGRD"
+      },
+      "51":{
+         "PARAMETER":"Specific humidity",
+         "UNITS":"kg/kg",
+         "ABBREV.":"SPFH"
+      },
+      "52":{
+         "PARAMETER":"Relative humidity",
+         "UNITS":"%",
+         "ABBREV.":"RH"
+      },
+      "53":{
+         "PARAMETER":"Humidity mixing ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"MIXR"
+      },
+      "54":{
+         "PARAMETER":"Precipitable water",
+         "UNITS":"kg/m2",
+         "ABBREV.":"PWAT"
+      },
+      "55":{
+         "PARAMETER":"Vapor pressure",
+         "UNITS":"Pa",
+         "ABBREV.":"VAPP"
+      },
+      "56":{
+         "PARAMETER":"Saturation deficit",
+         "UNITS":"Pa",
+         "ABBREV.":"SATD"
+      },
+      "57":{
+         "PARAMETER":"Evaporation",
+         "UNITS":"kg/m2",
+         "ABBREV.":"EVP"
+      },
+      "58":{
+         "PARAMETER":"Cloud Ice",
+         "UNITS":"kg/m2",
+         "ABBREV.":"CICE"
+      },
+      "59":{
+         "PARAMETER":"Precipitation rate",
+         "UNITS":"kg/m2/s",
+         "ABBREV.":"PRATE"
+      },
+      "60":{
+         "PARAMETER":"Thunderstorm probability",
+         "UNITS":"%",
+         "ABBREV.":"TSTM"
+      },
+      "61":{
+         "PARAMETER":"Total precipitation",
+         "UNITS":"kg/m2",
+         "ABBREV.":"APCP"
+      },
+      "62":{
+         "PARAMETER":"Large scale precipitation (non-conv.)",
+         "UNITS":"kg/m2",
+         "ABBREV.":"NCPCP"
+      },
+      "63":{
+         "PARAMETER":"Convective precipitation",
+         "UNITS":"kg/m2",
+         "ABBREV.":"ACPCP"
+      },
+      "64":{
+         "PARAMETER":"Snowfall rate water equivalent",
+         "UNITS":"kg/m2/s",
+         "ABBREV.":"SRWEQ"
+      },
+      "65":{
+         "PARAMETER":"Water equiv. of accum. snow depth",
+         "UNITS":"kg/m2",
+         "ABBREV.":"WEASD"
+      },
+      "66":{
+         "PARAMETER":"Snow depth",
+         "UNITS":"m",
+         "ABBREV.":"SNOD"
+      },
+      "67":{
+         "PARAMETER":"Mixed layer depth",
+         "UNITS":"m",
+         "ABBREV.":"MIXHT"
+      },
+      "68":{
+         "PARAMETER":"Transient thermocline depth",
+         "UNITS":"m",
+         "ABBREV.":"TTHDP"
+      },
+      "69":{
+         "PARAMETER":"Main thermocline depth",
+         "UNITS":"m",
+         "ABBREV.":"MTHD"
+      },
+      "70":{
+         "PARAMETER":"Main thermocline anomaly",
+         "UNITS":"m",
+         "ABBREV.":"MTHA"
+      },
+      "71":{
+         "PARAMETER":"Total cloud cover",
+         "UNITS":"%",
+         "ABBREV.":"TCDC"
+      },
+      "72":{
+         "PARAMETER":"Convective cloud cover",
+         "UNITS":"%",
+         "ABBREV.":"CDCON"
+      },
+      "73":{
+         "PARAMETER":"Low cloud cover",
+         "UNITS":"%",
+         "ABBREV.":"LCDC"
+      },
+      "74":{
+         "PARAMETER":"Medium cloud cover",
+         "UNITS":"%",
+         "ABBREV.":"MCDC"
+      },
+      "75":{
+         "PARAMETER":"High cloud cover",
+         "UNITS":"%",
+         "ABBREV.":"HCDC"
+      },
+      "76":{
+         "PARAMETER":"Cloud water",
+         "UNITS":"kg/m2",
+         "ABBREV.":"CWAT"
+      },
+      "77":{
+         "PARAMETER":"Best lifted index (to 500 hPa)",
+         "UNITS":"K",
+         "ABBREV.":"BLI"
+      },
+      "78":{
+         "PARAMETER":"Convective snow",
+         "UNITS":"kg/m2",
+         "ABBREV.":"SNOC"
+      },
+      "79":{
+         "PARAMETER":"Large scale snow",
+         "UNITS":"kg/m2",
+         "ABBREV.":"SNOL"
+      },
+      "80":{
+         "PARAMETER":"Water Temperature",
+         "UNITS":"K",
+         "ABBREV.":"WTMP"
+      },
+      "81":{
+         "PARAMETER":"Land cover (land=1, sea=0) (see note)",
+         "UNITS":"proportion",
+         "ABBREV.":"LAND"
+      },
+      "82":{
+         "PARAMETER":"Deviation of sea level from mean",
+         "UNITS":"m",
+         "ABBREV.":"DSLM"
+      },
+      "83":{
+         "PARAMETER":"Surface roughness",
+         "UNITS":"m",
+         "ABBREV.":"SFCR"
+      },
+      "84":{
+         "PARAMETER":"Albedo",
+         "UNITS":"%",
+         "ABBREV.":"ALBDO"
+      },
+      "85":{
+         "PARAMETER":"Soil temperature",
+         "UNITS":"K",
+         "ABBREV.":"TSOIL"
+      },
+      "86":{
+         "PARAMETER":"Soil moisture content",
+         "UNITS":"kg/m2",
+         "ABBREV.":"SOILM"
+      },
+      "87":{
+         "PARAMETER":"Vegetation",
+         "UNITS":"%",
+         "ABBREV.":"VEG"
+      },
+      "88":{
+         "PARAMETER":"Salinity",
+         "UNITS":"kg/kg",
+         "ABBREV.":"SALTY"
+      },
+      "89":{
+         "PARAMETER":"Density",
+         "UNITS":"kg/m3",
+         "ABBREV.":"DEN"
+      },
+      "90":{
+         "PARAMETER":"Water runoff",
+         "UNITS":"kg/m2",
+         "ABBREV.":"WATR"
+      },
+      "91":{
+         "PARAMETER":"Ice cover (ice=1, no ice=0) (See Note)",
+         "UNITS":"proportion",
+         "ABBREV.":"ICEC"
+      },
+      "92":{
+         "PARAMETER":"Ice thickness",
+         "UNITS":"m",
+         "ABBREV.":"ICETK"
+      },
+      "93":{
+         "PARAMETER":"Direction of ice drift",
+         "UNITS":"deg true",
+         "ABBREV.":"DICED"
+      },
+      "94":{
+         "PARAMETER":"Speed of ice drift",
+         "UNITS":"m/s",
+         "ABBREV.":"SICED"
+      },
+      "95":{
+         "PARAMETER":"u-component of ice drift",
+         "UNITS":"m/s",
+         "ABBREV.":"UICE"
+      },
+      "96":{
+         "PARAMETER":"v-component of ice drift",
+         "UNITS":"m/s",
+         "ABBREV.":"VICE"
+      },
+      "97":{
+         "PARAMETER":"Ice growth rate",
+         "UNITS":"m/s",
+         "ABBREV.":"ICEG"
+      },
+      "98":{
+         "PARAMETER":"Ice divergence",
+         "UNITS":"m/s",
+         "ABBREV.":"ICED"
+      },
+      "99":{
+         "PARAMETER":"Snow melt",
+         "UNITS":"kg/m2",
+         "ABBREV.":"SNOM"
+      },
+      "100":{
+         "PARAMETER":"Significant height of combined wind waves and swell",
+         "UNITS":"m",
+         "ABBREV.":"HTSGW"
+      },
+      "101":{
+         "PARAMETER":"Direction of wind waves (from which)",
+         "UNITS":"Degree true",
+         "ABBREV.":"WVDIR"
+      },
+      "102":{
+         "PARAMETER":"Significant height of wind waves",
+         "UNITS":"m",
+         "ABBREV.":"WVHGT"
+      },
+      "103":{
+         "PARAMETER":"Mean period of wind waves",
+         "UNITS":"s",
+         "ABBREV.":"WVPER"
+      },
+      "104":{
+         "PARAMETER":"Direction of swell waves",
+         "UNITS":"Degree true",
+         "ABBREV.":"SWDIR"
+      },
+      "105":{
+         "PARAMETER":"Significant height of swell waves",
+         "UNITS":"m",
+         "ABBREV.":"SWELL"
+      },
+      "106":{
+         "PARAMETER":"Mean period of swell waves",
+         "UNITS":"s",
+         "ABBREV.":"SWPER"
+      },
+      "107":{
+         "PARAMETER":"Primary wave direction",
+         "UNITS":"Degree true",
+         "ABBREV.":"DIRPW"
+      },
+      "108":{
+         "PARAMETER":"Primary wave mean period",
+         "UNITS":"s",
+         "ABBREV.":"PERPW"
+      },
+      "109":{
+         "PARAMETER":"Secondary wave direction",
+         "UNITS":"Degree true",
+         "ABBREV.":"DIRSW"
+      },
+      "110":{
+         "PARAMETER":"Secondary wave mean period",
+         "UNITS":"s",
+         "ABBREV.":"PERSW"
+      },
+      "111":{
+         "PARAMETER":"Net short-wave radiation flux(surface)",
+         "UNITS":"W/m2",
+         "ABBREV.":"NSWRS"
+      },
+      "112":{
+         "PARAMETER":"Net long wave radiation flux(surface)",
+         "UNITS":"W/m2",
+         "ABBREV.":"NLWRS"
+      },
+      "113":{
+         "PARAMETER":"Net short-wave radiation flux(top ofatmosphere)",
+         "UNITS":"W/m2",
+         "ABBREV.":"NSWRT"
+      },
+      "114":{
+         "PARAMETER":"Net long wave radiation flux(top of atmosphere)",
+         "UNITS":"W/m2",
+         "ABBREV.":"NLWRT"
+      },
+      "115":{
+         "PARAMETER":"Long wave radiation flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"LWAVR"
+      },
+      "116":{
+         "PARAMETER":"Short wave radiation flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"SWAVR"
+      },
+      "117":{
+         "PARAMETER":"Global radiation flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"GRAD"
+      },
+      "118":{
+         "PARAMETER":"Brightness temperature",
+         "UNITS":"K",
+         "ABBREV.":"BRTMP"
+      },
+      "119":{
+         "PARAMETER":"Radiance (with respect to wave number)",
+         "UNITS":"W/m/sr",
+         "ABBREV.":"LWRAD"
+      },
+      "120":{
+         "PARAMETER":"Radiance (with respect to wave length)",
+         "UNITS":"W/m3/sr",
+         "ABBREV.":"SWRAD"
+      },
+      "121":{
+         "PARAMETER":"Latent heat net flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"LHTFL"
+      },
+      "122":{
+         "PARAMETER":"Sensible heat net flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"SHTFL"
+      },
+      "123":{
+         "PARAMETER":"Boundary layer dissipation",
+         "UNITS":"W/m2",
+         "ABBREV.":"BLYDP"
+      },
+      "124":{
+         "PARAMETER":"Momentum flux, u component",
+         "UNITS":"N/m2",
+         "ABBREV.":"UFLX"
+      },
+      "125":{
+         "PARAMETER":"Momentum flux, v component",
+         "UNITS":"N/m2",
+         "ABBREV.":"VFLX"
+      },
+      "126":{
+         "PARAMETER":"Wind mixing energy",
+         "UNITS":"J",
+         "ABBREV.":"WMIXE"
+      },
+      "127":{
+         "PARAMETER":"Image data",
+         "UNITS":"",
+         "ABBREV.":"IMGD"
+      },
+      "128":{
+         "PARAMETER":"Mean Sea Level Pressure (Standard Atmosphere Reduction)",
+         "UNITS":"Pa",
+         "ABBREV.":"MSLSA"
+      },
+      "129":{
+         "PARAMETER":"Mean Sea Level Pressure (MAPS System Reduction)",
+         "UNITS":"Pa",
+         "ABBREV.":"MSLMA"
+      },
+      "130":{
+         "PARAMETER":"Mean Sea Level Pressure (NAM Model Reduction)",
+         "UNITS":"Pa",
+         "ABBREV.":"MSLET"
+      },
+      "131":{
+         "PARAMETER":"Surface lifted index",
+         "UNITS":"K",
+         "ABBREV.":"LFTX"
+      },
+      "132":{
+         "PARAMETER":"Best (4 layer) lifted index",
+         "UNITS":"K",
+         "ABBREV.":"4LFTX"
+      },
+      "133":{
+         "PARAMETER":"K index",
+         "UNITS":"K",
+         "ABBREV.":"KX"
+      },
+      "134":{
+         "PARAMETER":"Sweat index",
+         "UNITS":"K",
+         "ABBREV.":"SX"
+      },
+      "135":{
+         "PARAMETER":"Horizontal moisture divergence",
+         "UNITS":"kg/kg/s",
+         "ABBREV.":"MCONV"
+      },
+      "136":{
+         "PARAMETER":"Vertical speed shear",
+         "UNITS":"1/s",
+         "ABBREV.":"VWSH"
+      },
+      "137":{
+         "PARAMETER":"3-hr pressure tendency Std. Atmos. Reduction",
+         "UNITS":"Pa/s",
+         "ABBREV.":"TSLSA"
+      },
+      "138":{
+         "PARAMETER":"Brunt-Vaisala frequency (squared)",
+         "UNITS":"1/s2",
+         "ABBREV.":"BVF2"
+      },
+      "139":{
+         "PARAMETER":"Potential vorticity (density weighted)",
+         "UNITS":"1/s/m",
+         "ABBREV.":"PVMW"
+      },
+      "140":{
+         "PARAMETER":"Categorical rain (yes=1; no=0)",
+         "UNITS":"non-dim",
+         "ABBREV.":"CRAIN"
+      },
+      "141":{
+         "PARAMETER":"Categorical freezing rain (yes=1; no=0)",
+         "UNITS":"non-dim",
+         "ABBREV.":"CFRZR"
+      },
+      "142":{
+         "PARAMETER":"Categorical ice pellets (yes=1; no=0)",
+         "UNITS":"non-dim",
+         "ABBREV.":"CICEP"
+      },
+      "143":{
+         "PARAMETER":"Categorical snow (yes=1; no=0)",
+         "UNITS":"non-dim",
+         "ABBREV.":"CSNOW"
+      },
+      "144":{
+         "PARAMETER":"Volumetric soil moisture content",
+         "UNITS":"fraction",
+         "ABBREV.":"SOILW"
+      },
+      "145":{
+         "PARAMETER":"Potential evaporation rate",
+         "UNITS":"W/m2",
+         "ABBREV.":"PEVPR"
+      },
+      "146":{
+         "PARAMETER":"Cloud work function",
+         "UNITS":"J/kg",
+         "ABBREV.":"CWORK"
+      },
+      "147":{
+         "PARAMETER":"Zonal flux of gravity wave stress",
+         "UNITS":"N/m2",
+         "ABBREV.":"UGWD"
+      },
+      "148":{
+         "PARAMETER":"Meridional flux of gravity wave stress",
+         "UNITS":"N/m2",
+         "ABBREV.":"VGWD"
+      },
+      "149":{
+         "PARAMETER":"Potential vorticity",
+         "UNITS":"m2/s/kg",
+         "ABBREV.":"PVORT"
+      },
+      "150":{
+         "PARAMETER":"Covariance between meridional and zonal components of the wind. Defined as [uv]-[u][v], where \"[]\" indicates the mean over the indicated time span.",
+         "UNITS":"m2/s2",
+         "ABBREV.":"COVMZ"
+      },
+      "151":{
+         "PARAMETER":"Covariance between temperature and zonal components of the wind. Defined as [uT]-[u][T], where \"[]\" indicates the mean over the indicated time span.",
+         "UNITS":"K*m/s",
+         "ABBREV.":"COVTZ"
+      },
+      "152":{
+         "PARAMETER":"Covariance between temperature and meridional components of the wind. Defined as [vT]-[v][T], where \"[]\" indicates the mean over the indicated time span.",
+         "UNITS":"K*m/s",
+         "ABBREV.":"COVTM"
+      },
+      "153":{
+         "PARAMETER":"Cloud Mixing Ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"CLWMR"
+      },
+      "154":{
+         "PARAMETER":"Ozone mixing ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"O3MR"
+      },
+      "155":{
+         "PARAMETER":"Ground Heat Flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"GFLUX"
+      },
+      "156":{
+         "PARAMETER":"Convective inhibition",
+         "UNITS":"J/kg",
+         "ABBREV.":"CIN"
+      },
+      "157":{
+         "PARAMETER":"Convective Available Potential Energy",
+         "UNITS":"J/kg",
+         "ABBREV.":"CAPE"
+      },
+      "158":{
+         "PARAMETER":"Turbulent Kinetic Energy",
+         "UNITS":"J/kg",
+         "ABBREV.":"TKE"
+      },
+      "159":{
+         "PARAMETER":"Condensation pressure of parcel lifted from indicated surface",
+         "UNITS":"Pa",
+         "ABBREV.":"CONDP"
+      },
+      "160":{
+         "PARAMETER":"Clear Sky Upward Solar Flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"CSUSF"
+      },
+      "161":{
+         "PARAMETER":"Clear Sky Downward Solar Flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"CSDSF"
+      },
+      "162":{
+         "PARAMETER":"Clear Sky upward long wave flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"CSULF"
+      },
+      "163":{
+         "PARAMETER":"Clear Sky downward long wave flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"CSDLF"
+      },
+      "164":{
+         "PARAMETER":"Cloud forcing net solar flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"CFNSF"
+      },
+      "165":{
+         "PARAMETER":"Cloud forcing net long wave flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"CFNLF"
+      },
+      "166":{
+         "PARAMETER":"Visible beam downward solar flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"VBDSF"
+      },
+      "167":{
+         "PARAMETER":"Visible diffuse downward solar flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"VDDSF"
+      },
+      "168":{
+         "PARAMETER":"Near IR beam downward solar flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"NBDSF"
+      },
+      "169":{
+         "PARAMETER":"Near IR diffuse downward solar flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"NDDSF"
+      },
+      "170":{
+         "PARAMETER":"Rain water mixing ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"RWMR"
+      },
+      "171":{
+         "PARAMETER":"Snow mixing ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"SNMR"
+      },
+      "172":{
+         "PARAMETER":"Momentum flux",
+         "UNITS":"N/m2",
+         "ABBREV.":"MFLX"
+      },
+      "173":{
+         "PARAMETER":"Mass point model surface",
+         "UNITS":"non-dim",
+         "ABBREV.":"LMH"
+      },
+      "174":{
+         "PARAMETER":"Velocity point model surface",
+         "UNITS":"non-dim",
+         "ABBREV.":"LMV"
+      },
+      "175":{
+         "PARAMETER":"Model layer number (from bottom up)",
+         "UNITS":"non-dim",
+         "ABBREV.":"MLYNO"
+      },
+      "176":{
+         "PARAMETER":"latitude (-90 to +90)",
+         "UNITS":"deg",
+         "ABBREV.":"NLAT"
+      },
+      "177":{
+         "PARAMETER":"east longitude (0-360)",
+         "UNITS":"deg",
+         "ABBREV.":"ELON"
+      },
+      "178":{
+         "PARAMETER":"Ice mixing ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"ICMR"
+      },
+      "179":{
+         "PARAMETER":"Graupel mixing ratio",
+         "UNITS":"kg/kg",
+         "ABBREV.":"GRMR"
+      },
+      "180":{
+         "PARAMETER":"Surface wind gust",
+         "UNITS":"m/s",
+         "ABBREV.":"GUST"
+      },
+      "181":{
+         "PARAMETER":"x-gradient of log pressure",
+         "UNITS":"1/m",
+         "ABBREV.":"LPSX"
+      },
+      "182":{
+         "PARAMETER":"y-gradient of log pressure",
+         "UNITS":"1/m",
+         "ABBREV.":"LPSY"
+      },
+      "183":{
+         "PARAMETER":"x-gradient of height",
+         "UNITS":"m/m",
+         "ABBREV.":"HGTX"
+      },
+      "184":{
+         "PARAMETER":"y-gradient of height",
+         "UNITS":"m/m",
+         "ABBREV.":"HGTY"
+      },
+      "185":{
+         "PARAMETER":"Turbulence Potential Forecast Index",
+         "UNITS":"non-dim",
+         "ABBREV.":"TPFI"
+      },
+      "186":{
+         "PARAMETER":"Total Icing Potential Diagnostic",
+         "UNITS":"non-dim",
+         "ABBREV.":"TIPD"
+      },
+      "187":{
+         "PARAMETER":"Lightning",
+         "UNITS":"non-dim",
+         "ABBREV.":"LTNG"
+      },
+      "188":{
+         "PARAMETER":"Rate of water dropping from canopy to ground",
+         "UNITS":"",
+         "ABBREV.":"RDRIP"
+      },
+      "189":{
+         "PARAMETER":"Virtual potential temperature",
+         "UNITS":"K",
+         "ABBREV.":"VPTMP"
+      },
+      "190":{
+         "PARAMETER":"Storm relative helicity",
+         "UNITS":"m2/s2",
+         "ABBREV.":"HLCY"
+      },
+      "191":{
+         "PARAMETER":"Probability from ensemble",
+         "UNITS":"numeric",
+         "ABBREV.":"PROB"
+      },
+      "192":{
+         "PARAMETER":"Probability from ensemble normalized with respect to climate expectancy",
+         "UNITS":"numeric",
+         "ABBREV.":"PROBN"
+      },
+      "193":{
+         "PARAMETER":"Probability of precipitation",
+         "UNITS":"%",
+         "ABBREV.":"POP"
+      },
+      "194":{
+         "PARAMETER":"Percent of frozen precipitation",
+         "UNITS":"%",
+         "ABBREV.":"CPOFP"
+      },
+      "195":{
+         "PARAMETER":"Probability of freezing precipitation",
+         "UNITS":"%",
+         "ABBREV.":"CPOZP"
+      },
+      "196":{
+         "PARAMETER":"u-component of storm motion",
+         "UNITS":"m/s",
+         "ABBREV.":"USTM"
+      },
+      "197":{
+         "PARAMETER":"v-component of storm motion",
+         "UNITS":"m/s",
+         "ABBREV.":"VSTM"
+      },
+      "198":{
+         "PARAMETER":"Number concentration for ice particles",
+         "UNITS":"",
+         "ABBREV.":"NCIP"
+      },
+      "199":{
+         "PARAMETER":"Direct evaporation from bare soil",
+         "UNITS":"W/m2",
+         "ABBREV.":"EVBS"
+      },
+      "200":{
+         "PARAMETER":"Canopy water evaporation",
+         "UNITS":"W/m2",
+         "ABBREV.":"EVCW"
+      },
+      "201":{
+         "PARAMETER":"Ice-free water surface",
+         "UNITS":"%",
+         "ABBREV.":"ICWAT"
+      },
+      "202":{
+         "PARAMETER":"Convective weather detection index",
+         "UNITS":"non-dim",
+         "ABBREV.":"CWDI"
+      },
+      "203":{
+         "PARAMETER":"VAFTAD",
+         "UNITS":"log10(kg/m3)",
+         "ABBREV.":"VAFTD"
+      },
+      "204":{
+         "PARAMETER":"downward short wave rad. flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"DSWRF"
+      },
+      "205":{
+         "PARAMETER":"downward long wave rad. flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"DLWRF"
+      },
+      "206":{
+         "PARAMETER":"Ultra violet index (1 hour integration centered at solar noon)",
+         "UNITS":"W/m2",
+         "ABBREV.":"UVI"
+      },
+      "207":{
+         "PARAMETER":"Moisture availability",
+         "UNITS":"%",
+         "ABBREV.":"MSTAV"
+      },
+      "208":{
+         "PARAMETER":"Exchange coefficient",
+         "UNITS":"(kg/m3)(m/s)",
+         "ABBREV.":"SFEXC"
+      },
+      "209":{
+         "PARAMETER":"No. of mixed layers next to surface",
+         "UNITS":"integer",
+         "ABBREV.":"MIXLY"
+      },
+      "210":{
+         "PARAMETER":"Transpiration",
+         "UNITS":"W/m2",
+         "ABBREV.":"TRANS"
+      },
+      "211":{
+         "PARAMETER":"upward short wave rad. flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"USWRF"
+      },
+      "212":{
+         "PARAMETER":"upward long wave rad. flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"ULWRF"
+      },
+      "213":{
+         "PARAMETER":"Amount of non-convective cloud",
+         "UNITS":"%",
+         "ABBREV.":"CDLYR"
+      },
+      "214":{
+         "PARAMETER":"Convective Precipitation rate",
+         "UNITS":"kg/m2/s",
+         "ABBREV.":"CPRAT"
+      },
+      "215":{
+         "PARAMETER":"Temperature tendency by all physics",
+         "UNITS":"K/s",
+         "ABBREV.":"TTDIA"
+      },
+      "216":{
+         "PARAMETER":"Temperature tendency by all radiation",
+         "UNITS":"K/s",
+         "ABBREV.":"TTRAD"
+      },
+      "217":{
+         "PARAMETER":"Temperature tendency by non-radiation physics",
+         "UNITS":"K/s",
+         "ABBREV.":"TTPHY"
+      },
+      "218":{
+         "PARAMETER":"Precipitation index(0.0-1.00) (see note)",
+         "UNITS":"fraction",
+         "ABBREV.":"PREIX"
+      },
+      "219":{
+         "PARAMETER":"Std. dev. of IR T over 1x1 deg area",
+         "UNITS":"K",
+         "ABBREV.":"TSD1D"
+      },
+      "220":{
+         "PARAMETER":"Natural log of surface pressure",
+         "UNITS":"ln(kPa)",
+         "ABBREV.":"NLGSP"
+      },
+      "221":{
+         "PARAMETER":"Planetary boundary layer height",
+         "UNITS":"m",
+         "ABBREV.":"HPBL"
+      },
+      "222":{
+         "PARAMETER":"5-wave geopotential height",
+         "UNITS":"gpm",
+         "ABBREV.":"5WAVH"
+      },
+      "223":{
+         "PARAMETER":"Plant canopy surface water",
+         "UNITS":"kg/m2",
+         "ABBREV.":"CNWAT"
+      },
+      "224":{
+         "PARAMETER":"Soil type (as in Zobler)",
+         "UNITS":"Integer (0-9)",
+         "ABBREV.":"SOTYP"
+      },
+      "225":{
+         "PARAMETER":"Vegitation type (as in SiB)",
+         "UNITS":"Integer (0-13)",
+         "ABBREV.":"VGTYP"
+      },
+      "226":{
+         "PARAMETER":"Blackadar's mixing length scale",
+         "UNITS":"m",
+         "ABBREV.":"BMIXL"
+      },
+      "227":{
+         "PARAMETER":"Asymptotic mixing length scale",
+         "UNITS":"m",
+         "ABBREV.":"AMIXL"
+      },
+      "228":{
+         "PARAMETER":"Potential evaporation",
+         "UNITS":"kg/m2",
+         "ABBREV.":"PEVAP"
+      },
+      "229":{
+         "PARAMETER":"Snow phase-change heat flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"SNOHF"
+      },
+      "230":{
+         "PARAMETER":"5-wave geopotential height anomaly",
+         "UNITS":"gpm",
+         "ABBREV.":"5WAVA"
+      },
+      "231":{
+         "PARAMETER":"Convective cloud mass flux",
+         "UNITS":"Pa/s",
+         "ABBREV.":"MFLUX"
+      },
+      "232":{
+         "PARAMETER":"Downward total radiation flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"DTRF"
+      },
+      "233":{
+         "PARAMETER":"Upward total radiation flux",
+         "UNITS":"W/m2",
+         "ABBREV.":"UTRF"
+      },
+      "234":{
+         "PARAMETER":"Baseflow-groundwater runoff",
+         "UNITS":"kg/m2",
+         "ABBREV.":"BGRUN"
+      },
+      "235":{
+         "PARAMETER":"Storm surface runoff",
+         "UNITS":"kg/m2",
+         "ABBREV.":"SSRUN"
+      },
+      "236":{
+         "PARAMETER":"Supercooled Large Droplet (SLD) Icing Potential Diagnostic",
+         "UNITS":"NumericSee Note (1)",
+         "ABBREV.":"SIPD"
+      },
+      "237":{
+         "PARAMETER":"Total ozone",
+         "UNITS":"kg/m2",
+         "ABBREV.":"03TOT"
+      },
+      "238":{
+         "PARAMETER":"Snow cover",
+         "UNITS":"percent",
+         "ABBREV.":"SNOWC"
+      },
+      "239":{
+         "PARAMETER":"Snow temperature",
+         "UNITS":"K",
+         "ABBREV.":"SNO T"
+      },
+      "240":{
+         "PARAMETER":"Covariance between temperature and vertical component of the wind. Defined as [wT]-[w][T], where \"[]\" indicates the mean over the indicated time span",
+         "UNITS":"K*m/s",
+         "ABBREV.":"COVTW"
+      },
+      "241":{
+         "PARAMETER":"Large scale condensate heat rate",
+         "UNITS":"K/s",
+         "ABBREV.":"LRGHR"
+      },
+      "242":{
+         "PARAMETER":"Deep convective heating rate",
+         "UNITS":"K/s",
+         "ABBREV.":"CNVHR"
+      },
+      "243":{
+         "PARAMETER":"Deep convective moistening rate",
+         "UNITS":"kg/kg/s",
+         "ABBREV.":"CNVMR"
+      },
+      "244":{
+         "PARAMETER":"Shallow convective heating rate",
+         "UNITS":"K/s",
+         "ABBREV.":"SHAHR"
+      },
+      "245":{
+         "PARAMETER":"Shallow convective moistening rate",
+         "UNITS":"kg/kg/s",
+         "ABBREV.":"SHAMR"
+      },
+      "246":{
+         "PARAMETER":"Vertical diffusion heating rate",
+         "UNITS":"K/s",
+         "ABBREV.":"VDFHR"
+      },
+      "247":{
+         "PARAMETER":"Vertical diffusion zonal acceleration",
+         "UNITS":"m/s2",
+         "ABBREV.":"VDFUA"
+      },
+      "248":{
+         "PARAMETER":"Vertical diffusion meridional acceleration",
+         "UNITS":"m/s2",
+         "ABBREV.":"VDFVA"
+      },
+      "249":{
+         "PARAMETER":"Vertical diffusion moistening rate",
+         "UNITS":"kg/kg/s",
+         "ABBREV.":"VDFMR"
+      },
+      "250":{
+         "PARAMETER":"Solar radiative heating rate",
+         "UNITS":"K/s",
+         "ABBREV.":"SWHR"
+      },
+      "251":{
+         "PARAMETER":"Long wave radiative heating rate",
+         "UNITS":"K/s",
+         "ABBREV.":"LWHR"
+      },
+      "252":{
+         "PARAMETER":"Drag coefficient",
+         "UNITS":"non-dim",
+         "ABBREV.":"CD"
+      },
+      "253":{
+         "PARAMETER":"Friction velocity",
+         "UNITS":"m/s",
+         "ABBREV.":"FRICV"
+      },
+      "254":{
+         "PARAMETER":"Richardson number",
+         "UNITS":"non-dim",
+         "ABBREV.":"RI"
+      },
+      "255":{
+         "PARAMETER":"Missing",
+         "UNITS":"",
+         "ABBREV.":""
+      }
+   }
+]

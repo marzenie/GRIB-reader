@@ -1,0 +1,716 @@
+[
+   {
+      "1":{
+         "GRID":"1679-point (73x23) Mercator grid with (1,1) at (0W,48.09S),(73,23) at (0W,48.09N); I increasing eastward, Equator at J=12.",
+         "GRID_INCREMENT":"5 degs of Longitude"
+      },
+      "2":{
+         "GRID":"10512-point (144x73) global longitude-latitude grid. (1,1)at (0E, 90N), matrix layout. N.B.: prime meridian not duplicated.",
+         "GRID_INCREMENT":"2.5 deg"
+      },
+      "3":{
+         "GRID":"65160-point (360x181) global longitude-latitude grid. (1,1)at (0E, 90N), matrix layout. N.B.: prime meridian not duplicated.",
+         "GRID_INCREMENT":"1.0 deg"
+      },
+      "4":{
+         "GRID":"259920-point (720x361) global Lon/Lat grid. (1,1) at (0E,90N); matrix layout; prime meridian not duplicated",
+         "GRID_INCREMENT":"0.5 deg"
+      },
+      "5":{
+         "GRID":"3021-point (53x57) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (27,49). (LFM analysis)",
+         "GRID_INCREMENT":"190.5 km at 60N"
+      },
+      "6":{
+         "GRID":"2385-point (53x45) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (27,49). (LFM Forecast)",
+         "GRID_INCREMENT":"190.5 km at 60N"
+      },
+      "8":{
+         "GRID":"5104-point (116x44) Mercator grid with (1.1) at(3.1035E,48.67S) and (116,44) At (0.000W,61.05N); I increasingeastward, Equator at j=19.",
+         "GRID_INCREMENT":"3.105 degs of longitude"
+      },
+      "10":{
+         "GRID":"25020-point(180x139) longitude-latitude ocean grid with (1,1) at (1E,64N),(180,139) at (1W,74S); I increasing eastward, Equator at J=65",
+         "GRID_INCREMENT":"2 degs ofLon and 1 deg of Lat"
+      },
+      "11":{
+         "GRID":"Global0.5 degree Latitude/Longitude grid (Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.5 degree"
+      },
+      "12":{
+         "GRID":"0.167degree Latitude/Longitude grid - US East Coast(Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.167 degree"
+      },
+      "13":{
+         "GRID":"0.167degree Latitude/Longitude grid - US West Coast(Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.167 degree"
+      },
+      "14":{
+         "GRID":"0.167degree Latitude/Longitude grid US Eastern Pacific - includes Hawaii and extends to the Pacific islandsof Guam(Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.167 degree"
+      },
+      "15":{
+         "GRID":"0.250x0.167degree Latitude/Longitude grid - Alaska (Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.25 degree Lat and 0.167 degreeLon"
+      },
+      "16":{
+         "GRID":"0.133x0.067degree Latitude/Longitude grid - Alaska (Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.133 degree Lat and 0.067 degreeLon"
+      },
+      "17":{
+         "GRID":"0.067degree Latitude/Longitude grid - US West Coast (includes Hawaii)(Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.067 degree"
+      },
+      "18":{
+         "GRID":"0.067degree Latitude/Longitude grid - US East Coast(Used by Global Multi-Grid Wave Model) See GRIBSpecifications",
+         "GRID_INCREMENT":"0.067 degree"
+      },
+      "21":{
+         "GRID":"International Exchange and Family ofServices (FOS) grids.",
+         "GRID_INCREMENT":""
+      },
+      "22":{
+         "GRID":"International Exchange and Family ofServices (FOS) grids.",
+         "GRID_INCREMENT":""
+      },
+      "23":{
+         "GRID":"International Exchange and Family ofServices (FOS) grids.",
+         "GRID_INCREMENT":""
+      },
+      "24":{
+         "GRID":"International Exchange and Family ofServices (FOS) grids.",
+         "GRID_INCREMENT":""
+      },
+      "25":{
+         "GRID":"International Exchange and Family ofServices (FOS) grids.",
+         "GRID_INCREMENT":""
+      },
+      "26":{
+         "GRID":"International Exchange and Family ofServices (FOS) grids.",
+         "GRID_INCREMENT":""
+      },
+      "27":{
+         "GRID":"4225-point (65x65) N. Hemisphere Polar Stereographic gridoriented 80W; Pole at (33,33).",
+         "GRID_INCREMENT":"381 km at 60N"
+      },
+      "28":{
+         "GRID":"4225-point (65x65) S. Hemisphere Polar Stereographic gridoriented 280E ( 80W );Pole at (33,33).",
+         "GRID_INCREMENT":"381 km at 60S"
+      },
+      "29":{
+         "GRID":"5365-point (145x37) N. Hemisphere longitude/latitude grid forlatitudes 0N to 90N; (1,1) at (0E,0N).",
+         "GRID_INCREMENT":"2.5 degs"
+      },
+      "30":{
+         "GRID":"5365-point (145x37) S. Hemisphere longitude/latitude grid forlatitudes 90S to 0S; (1,1) at (0E,90S).",
+         "GRID_INCREMENT":"2.5 degs"
+      },
+      "33":{
+         "GRID":"8326-point (181x46) N. Hemisphere longitude/latitude grid forlatitudes 0N to 90N; (1,1) at (0E,0N).",
+         "GRID_INCREMENT":"2 degs"
+      },
+      "34":{
+         "GRID":"8326-point (181x46) S. Hemisphere longitude/latitude grid forlatitudes 90S to 0S; (1,1) at (0E,90S).",
+         "GRID_INCREMENT":"2 degs"
+      },
+      "37":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "38":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "39":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "40":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "41":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "42":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "43":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "44":{
+         "GRID":"Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange.",
+         "GRID_INCREMENT":""
+      },
+      "45":{
+         "GRID":"Global latitude/longitude 1.25 deg Resolution.",
+         "GRID_INCREMENT":""
+      },
+      "50":{
+         "GRID":"Family of Services \"regional grid\".",
+         "GRID_INCREMENT":""
+      },
+      "53":{
+         "GRID":"5967-point (117x51) Mercator grid with (1,1) at(0.000W,61.05S) and (117,51) At (0.000W,61.05N); I increasing eastward,Equator at j=26.",
+         "GRID_INCREMENT":"3.105 degs of longitude"
+      },
+      "55":{
+         "GRID":"6177-point (87x71) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (44,38). (2/3 bedient NH sfc anl)",
+         "GRID_INCREMENT":"254 km at 60N"
+      },
+      "56":{
+         "GRID":"6177-point (87x71) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (40,73). (1/3 bedient NA sfc anl)",
+         "GRID_INCREMENT":"127 km at 60N"
+      },
+      "61":{
+         "GRID":"International Exchange & FOS grids.",
+         "GRID_INCREMENT":""
+      },
+      "62":{
+         "GRID":"International Exchange & FOS grids.",
+         "GRID_INCREMENT":""
+      },
+      "63":{
+         "GRID":"International Exchange & FOS grids.",
+         "GRID_INCREMENT":""
+      },
+      "64":{
+         "GRID":"International Exchange & FOS grids.",
+         "GRID_INCREMENT":""
+      },
+      "75":{
+         "GRID":"12321-point (111x111) N. Hemisphere Lambert Conformal grid.No fixed location; used by QLM Hurricane model.",
+         "GRID_INCREMENT":"40 km at 30&60 deg N"
+      },
+      "76":{
+         "GRID":"12321-point (111x111) S. Hemisphere Lambert Conformal grid.No fixed location; used by QLM Hurricane model.",
+         "GRID_INCREMENT":"40 km at 30&60 deg S"
+      },
+      "77":{
+         "GRID":"12321-point (111x111) N. Hemisphere Mercator grid. No fixedlocation; used by QLM Hurricane model.",
+         "GRID_INCREMENT":"40 km at 22.5 deg N&S"
+      },
+      "83":{
+         "GRID":"Arakawa semi-staggered A-grid on rotate Latitude/Longitude grid (used by 13km Rapid Refresh)",
+         "GRID_INCREMENT":"13 km"
+      },
+      "85":{
+         "GRID":"32400-point (360x90) N. Hemisphere longitude/latitude grid;longitudes: 0.5E to 359.5E (0.5W); latitudes: 0.5N to 89.5N; origin(1,1) at (0.5E,0.5N)",
+         "GRID_INCREMENT":"1 deg"
+      },
+      "86":{
+         "GRID":"32400-point (360x90) S. Hemisphere longitude/latitude grid;longitudes: 0.5E to 359.5E (0.5W); latitudes: 89.5S to 0.5S; origin(1,1) at (0.5E,89.5S)",
+         "GRID_INCREMENT":"1 deg"
+      },
+      "87":{
+         "GRID":"5022 point (81x62) N. Hemisphere Polar Stereographic gridoriented at 105W. Pole at (31.91, 112.53) Used for RUC. (60 km at 40N).",
+         "GRID_INCREMENT":"68.153 km at 60N"
+      },
+      "88":{
+         "GRID":"317840 point (580x548) N. American Polar Stereographic gridoriented at 105W. Pole at (260.853, 613.176) Used for RSAS. (15 km at60N).",
+         "GRID_INCREMENT":"15 km at 60N"
+      },
+      "90":{
+         "GRID":"11807617-point (4289x2753) Grid Over CONUS - Lambert Conformal(Used by RTMA output for quadruple-resolution NDFD grid)",
+         "GRID_INCREMENT":"1.27 km"
+      },
+      "91":{
+         "GRID":"1822145-point (1649x1105) Grid Over Alaska - Polar Stereographic(Used by RTMA and NAM smartinit for double-resoulution NDFD grids)",
+         "GRID_INCREMENT":"2.976 km"
+      },
+      "92":{
+         "GRID":"7283073-point (3297x2209) Grid Over Alaska - Polar Stereographic(Used by RTMA and NAM smartinit for quadruple-resoulution NDFD grids)",
+         "GRID_INCREMENT":"1.488 km"
+      },
+      "93":{
+         "GRID":"111723-point (223x501) Arakawa staggered E-grid on rotatedlatitude/longitude grid (used by the 8 km NMM model - Alaska).",
+         "GRID_INCREMENT":""
+      },
+      "94":{
+         "GRID":"Staggered B-grid on rotated latitude/longitude grid (NAM Alaska 6km nest)",
+         "GRID_INCREMENT":"6.0 km"
+      },
+      "95":{
+         "GRID":"Staggered E-grid on rotated latitude/longitude grid (NAM Puert Rico 3km nest)",
+         "GRID_INCREMENT":"3.0 km"
+      },
+      "96":{
+         "GRID":"Staggered B-grid on rotated latitude/longitude grid (NAM Hawaii 3km nest)",
+         "GRID_INCREMENT":"3.0 km"
+      },
+      "97":{
+         "GRID":"Staggered B-grid on rotated latitude/longitude grid (NAM CONUS 4km nest)",
+         "GRID_INCREMENT":"4.0 km"
+      },
+      "98":{
+         "GRID":"Global Gaussian T62 grid.",
+         "GRID_INCREMENT":""
+      },
+      "99":{
+         "GRID":"779385-point (669x1165) Arakawa staggeredE-grid on rotated latitude/longitude grid (Used by the 12km NAM Model -expanded domain).",
+         "GRID_INCREMENT":""
+      },
+      "100":{
+         "GRID":"6889-point (83x83) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (40.5,88.5). (NGM Original C-Grid)",
+         "GRID_INCREMENT":"91.452 km at 60N"
+      },
+      "101":{
+         "GRID":"10283-point (113x91) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (58.5,92.5). (NGM \"Big C-Grid\")",
+         "GRID_INCREMENT":"91.452 km at 60N"
+      },
+      "103":{
+         "GRID":"3640-point (65x56) N. Hemisphere Polar Stereographic gridoriented 105W; Pole at (25.5,84.5) (used by ARL)",
+         "GRID_INCREMENT":"91.452 km at 60N"
+      },
+      "104":{
+         "GRID":"16170-point (147x110) N. Hemisphere Polar Stereographic gridoriented 105W; pole at (75.5,109.5). (NGM Super C grid)",
+         "GRID_INCREMENT":"90.75464 km at 60N"
+      },
+      "105":{
+         "GRID":"6889-point (83x83) N. Hemisphere Polar Stereographic gridoriented 105W; pole at (40.5,88.5). (U.S. area subset of NGM Super Cgrid, used by NAM model)",
+         "GRID_INCREMENT":"90.75464 km at 60N"
+      },
+      "106":{
+         "GRID":"19305 point (165x117) N. Hemisphere Polar Stereographic gridoriented 105W; pole at (80,176) Hi res. NAM (2 x resolution of Super C)",
+         "GRID_INCREMENT":"45.37732 km at 60N"
+      },
+      "107":{
+         "GRID":"11040 point (120x92) N. Hemisphere Polar Stereographic gridoriented 105W; pole at (46,167) subset of Hi res. NAM; for NAM &MAPS/RUC",
+         "GRID_INCREMENT":"45.37732 km at 60N"
+      },
+      "110":{
+         "GRID":"LDAS Grid over CONUS (longitude/latitude grid)",
+         "GRID_INCREMENT":"1/8 degree"
+      },
+      "119":{
+         "GRID":"83160-point(360x231)Curvi-linear Orthogonal Tri-Polar grid",
+         "GRID_INCREMENT":""
+      },
+      "120":{
+         "GRID":"2020800-point(1200X1684)Curvi-linear Orthogonal Grid of the Atlantic sector within 25.0S to76.0N & -105.0W to 67.0E.",
+         "GRID_INCREMENT":"2.40km- 25.25 km"
+      },
+      "122":{
+         "GRID":"162750-point(350X465)Curvi-linear Orthogonal Grid of the Gulf of Mexico sector within 18.0Nto 33.0N& -99.0W to -77.0W. See GRIBSpecifications",
+         "GRID_INCREMENT":"3.13km- 5.67km"
+      },
+      "123":{
+         "GRID":"100800-point(280X360)Curvi-linear Orthogonal Grid of the North West Atlantic sector within33.0N to 54.0N& -77.0W to -46.0W. See GRIBSpecifications",
+         "GRID_INCREMENT":"4.3km- 6.89km"
+      },
+      "124":{
+         "GRID":"75360-point(240X314)Curvi-linear Orthogonal Grid of the Middle West Atlantic sector within26.0N to 42.0N& -84.0W to 63.0W. See GRIBSpecifications",
+         "GRID_INCREMENT":"4.12km - 6.28km"
+      },
+      "125":{
+         "GRID":"102000-point(300X340)Curvi-linear Orthogonal Grid of the South West Atlantic sector within15.0N to 34.0N& -82.0W to -59.0W. See GRIBSpecifications",
+         "GRID_INCREMENT":"4.59km- 7.67km"
+      },
+      "126":{
+         "GRID":"Global Gaussian T126 grid",
+         "GRID_INCREMENT":"0.9375 degree"
+      },
+      "127":{
+         "GRID":"Global Gaussian T254 grid",
+         "GRID_INCREMENT":"0.469 degree"
+      },
+      "128":{
+         "GRID":"Global Gaussian T382 grid",
+         "GRID_INCREMENT":"0.313 degree"
+      },
+      "129":{
+         "GRID":"Global Gaussian T574 grid",
+         "GRID_INCREMENT":"0.205 degree"
+      },
+      "130":{
+         "GRID":"Regional(CONUS) Lambert Conformal grid",
+         "GRID_INCREMENT":"13km"
+      },
+      "132":{
+         "GRID":"Regional Double Resolution North American Grid  (Lambert Conformal) used by SREF.",
+         "GRID_INCREMENT":"16.23174 km"
+      },
+      "138":{
+         "GRID":"Air-Quality Forecasting CONUS",
+         "GRID_INCREMENT":"12 km"
+      },
+      "139":{
+         "GRID":"Air-Quality Forecasting Hawaii",
+         "GRID_INCREMENT":"12 km"
+      },
+      "140":{
+         "GRID":"Air-Quality Forecasting Alaska",
+         "GRID_INCREMENT":"12 km"
+      },
+      "145":{
+         "GRID":"Air-Quality ForecastingNortheast Intermediate Domain",
+         "GRID_INCREMENT":"12 km"
+      },
+      "146":{
+         "GRID":"Air-Quality ForecastingNortheast Output Domain",
+         "GRID_INCREMENT":"12 km"
+      },
+      "147":{
+         "GRID":"Air-QualityForecasting Eastern \"3x\" Output DomainSeeGRIB Specifications",
+         "GRID_INCREMENT":"12km"
+      },
+      "148":{
+         "GRID":"Air-QualityForecasting CONUS \"5x\" Output DomainSeeGRIB Specifications",
+         "GRID_INCREMENT":"12km"
+      },
+      "150":{
+         "GRID":"Grid over Central America -LAT/LON grid (for CPC)",
+         "GRID_INCREMENT":"12km"
+      },
+      "151":{
+         "GRID":"Grid over North America -Polar Stereographic(Used by the 32-km NAM Model - Expanded domain)",
+         "GRID_INCREMENT":"32km"
+      },
+      "160":{
+         "GRID":"NorthPolar Stereographic gridfor Alaska (Quadruple grid 203)SeeGRIB Specifications",
+         "GRID_INCREMENT":"47.5km"
+      },
+      "161":{
+         "GRID":"Lat/Longrid for Puerto Rico",
+         "GRID_INCREMENT":"0.5degree"
+      },
+      "163":{
+         "GRID":"Regional(CONUS) Lambert Conformal gridSeeGRIB Specifications",
+         "GRID_INCREMENT":"5km"
+      },
+      "170":{
+         "GRID":"Global Gaussian T170 grid",
+         "GRID_INCREMENT":""
+      },
+      "171":{
+         "GRID":"Northern Hemisphere High Resolution Sea Ice grid (PolarStereographic)",
+         "GRID_INCREMENT":"12.7 km"
+      },
+      "172":{
+         "GRID":"Southern Hemisphere High Resolution Sea Ice grid (PolarStereographic)",
+         "GRID_INCREMENT":"12.7 km"
+      },
+      "173":{
+         "GRID":"1/12degree global Lat/Lon grid",
+         "GRID_INCREMENT":"0.5degree"
+      },
+      "174":{
+         "GRID":"Global High Resolution SeaIce grid (longitude/latitude grid)",
+         "GRID_INCREMENT":"0.125 degree"
+      },
+      "175":{
+         "GRID":"Lat/Lon grid over Guam",
+         "GRID_INCREMENT":"10km lon/lat"
+      },
+      "176":{
+         "GRID":"Lat/Longrid for the US Great Lakes",
+         "GRID_INCREMENT":"0.050 x0.035 degree"
+      },
+      "179":{
+         "GRID":"Grid over North America (Polar Stereographic)        (12km grid used to post-process NAM Analysis)",
+         "GRID_INCREMENT":"12 km"
+      },
+      "180":{
+         "GRID":"CONUS - Lat/Lon grid (for AFWA product)",
+         "GRID_INCREMENT":"12 km"
+      },
+      "181":{
+         "GRID":"CentralAmerica/Caribbean - Lat/Lon grid (for AFWA product)",
+         "GRID_INCREMENT":"12km"
+      },
+      "182":{
+         "GRID":"Hawaii/NorthPacific - Lat/Lon grid (for AFWA product)",
+         "GRID_INCREMENT":"12km"
+      },
+      "183":{
+         "GRID":"Alaska -Lat/Lon grid (for AFWA product)",
+         "GRID_INCREMENT":"12km"
+      },
+      "184":{
+         "GRID":"Grid over CONUS - (2.54 km) Lambert Conformal        (Used by RTMA ouput for Double-resolution NDFD grid)",
+         "GRID_INCREMENT":"2.54 km"
+      },
+      "185":{
+         "GRID":"Limiteddomain CONUS Lambert Conformal (used by the DGEX)SeeGRIB Specifications",
+         "GRID_INCREMENT":"12km"
+      },
+      "186":{
+         "GRID":"Limiteddomain Alaska Polar Stereographic (used by the DGEX)SeeGRIB Specifications",
+         "GRID_INCREMENT":"12km"
+      },
+      "187":{
+         "GRID":"Grid over CONUS - (2.54 km) Lambert Conformal        (Used by new CONUS RTMA domain ouput for Double-resolution NDFD grid)",
+         "GRID_INCREMENT":"2.54 km"
+      },
+      "188":{
+         "GRID":"Grid over CONUS - (2.54 km) Lambert Conformal",
+         "GRID_INCREMENT":"2.54 km"
+      },
+      "189":{
+         "GRID":"560025-point (655x855) - Polar Stereographic        (Used by Juneau RTMA for NDFD grids)",
+         "GRID_INCREMENT":"1.448 km"
+      },
+      "190":{
+         "GRID":"Staggered B-grid on rotated latitude/longitude grid (NAM 12km Domain)",
+         "GRID_INCREMENT":""
+      },
+      "192":{
+         "GRID":"91719-point (237x387) Arakawa staggered E-grid on rotatedlatitude/longitude grid.",
+         "GRID_INCREMENT":""
+      },
+      "193":{
+         "GRID":"1038240-point (1440x721)Global longitude-latitude        with (1,1) at (0E,90N),matrix layout. N.B.: prime meridian not duplicated.",
+         "GRID_INCREMENT":"0.25 deg"
+      },
+      "194":{
+         "GRID":"Grid over Puert Rico - Mercator (Grid for NAM 3 km Puert Rico nest).",
+         "GRID_INCREMENT":"3.0 km"
+      },
+      "195":{
+         "GRID":"Grid over Puerto Rico -Mercator(Used by RTMA and NAM smartinit output for NDFD grids)",
+         "GRID_INCREMENT":"2.5 km"
+      },
+      "196":{
+         "GRID":"Grid over Hawaii - Mercator(Used by RTMA and NAM smartinit output for NDFD grids)",
+         "GRID_INCREMENT":"2.5 km"
+      },
+      "197":{
+         "GRID":"Grid over CONUS - 16X Resolution (5 km) Lambert Conformal(Used by the Radar Stage IV precipitation analyses and Satellite-derivedPrecipitation Estimates and NAM DNG grids and RTMA NDFD grids)",
+         "GRID_INCREMENT":"5.079 km"
+      },
+      "198":{
+         "GRID":"Grid over Alaska - PolarStereographic(Used by RTMA and NAM smartinit output for NDFD grids)",
+         "GRID_INCREMENT":"5.953km"
+      },
+      "199":{
+         "GRID":"Grid over Guam - Mercator(Used by RTMA and GFS smartinit output for NDFD grids)",
+         "GRID_INCREMENT":"2.50 km"
+      },
+      "200":{
+         "GRID":"Puerto Rico FAA Regional Grid - (16.232 km) Lambert Conformal",
+         "GRID_INCREMENT":"16.232 km"
+      },
+      "201":{
+         "GRID":"Northern Hemispheric (Polar Stereographic).",
+         "GRID_INCREMENT":"381.000 km"
+      },
+      "202":{
+         "GRID":"National - CONUS (Polar Stereographic).",
+         "GRID_INCREMENT":"190.500 km"
+      },
+      "203":{
+         "GRID":"National - Alaska (Polar Stereographic).",
+         "GRID_INCREMENT":"190.500 km"
+      },
+      "204":{
+         "GRID":"National - Hawaii (Mercator).",
+         "GRID_INCREMENT":"160.000 km"
+      },
+      "205":{
+         "GRID":"National - Puerto Rico (Polar Stereographic).",
+         "GRID_INCREMENT":"190.500 km"
+      },
+      "206":{
+         "GRID":"Regional - Central US MARD (Lambert Conformal).",
+         "GRID_INCREMENT":"81.2705 km"
+      },
+      "207":{
+         "GRID":"Regional - Alaska (Polar Stereographic).",
+         "GRID_INCREMENT":"95.250 km"
+      },
+      "208":{
+         "GRID":"Regional - Hawaii (Mercator).",
+         "GRID_INCREMENT":"80.000 km"
+      },
+      "209":{
+         "GRID":"Regional - NOAMIM - Intermediate Resolution NorthAmerican Master Grid (Lambert Conformal).",
+         "GRID_INCREMENT":"44.000 km"
+      },
+      "210":{
+         "GRID":"Regional - Puerto Rico (Mercator).",
+         "GRID_INCREMENT":"80.000 km"
+      },
+      "211":{
+         "GRID":"Regional - CONUS (Lambert Conformal).",
+         "GRID_INCREMENT":"80 km"
+      },
+      "212":{
+         "GRID":"Regional - CONUS - Double Resolution (LambertConformal).",
+         "GRID_INCREMENT":"40.63525 km"
+      },
+      "213":{
+         "GRID":"National - CONUS - Double Resolution (PolarStereographic).",
+         "GRID_INCREMENT":"95.250 km"
+      },
+      "214":{
+         "GRID":"Regional - Alaska - Double Resolution (PolarStereographic).",
+         "GRID_INCREMENT":"47.625 km"
+      },
+      "215":{
+         "GRID":"Regional grid over the contiguous United States - QuadrupleResolution (used by the 29-km NAM Model) (Lambert Conformal).",
+         "GRID_INCREMENT":"20.317625 km"
+      },
+      "216":{
+         "GRID":"Regional grid over Alaska (Polar Stereographic).",
+         "GRID_INCREMENT":"45.000 km"
+      },
+      "217":{
+         "GRID":"Grid over Alaska - Double Resolution (PolarStereographic).",
+         "GRID_INCREMENT":"22.500 km"
+      },
+      "218":{
+         "GRID":"Grid over the Contiguous United States (used by the12-km NAM Model) (Lambert Conformal).",
+         "GRID_INCREMENT":"12.19058 km"
+      },
+      "219":{
+         "GRID":"Grid over the Northern Hemisphere to depictSSMI-derived ice concentrations (Polar Stereographic).",
+         "GRID_INCREMENT":"25.4 km"
+      },
+      "220":{
+         "GRID":"Grid over the Southern Hemisphere to depictSSMI-derived ice concentrations (Polar Stereographic).",
+         "GRID_INCREMENT":"25.4 km"
+      },
+      "221":{
+         "GRID":"Regional North American Grid (Lambert Conformal) used by NAM, SREF and RAP.",
+         "GRID_INCREMENT":"32.46341 km"
+      },
+      "222":{
+         "GRID":"Regional - NOAMLO - Low Resolution North AmericanMaster Grid (Lambert Conformal).",
+         "GRID_INCREMENT":"88.00000 km"
+      },
+      "223":{
+         "GRID":"Hemispheric - Double Resolution (Polar Stereographic).",
+         "GRID_INCREMENT":"190.500 km"
+      },
+      "224":{
+         "GRID":"Southern Hemispheric (Polar Stereographic).",
+         "GRID_INCREMENT":"381.000 km"
+      },
+      "225":{
+         "GRID":"National Double Resolution - Hawaii (Mercator).",
+         "GRID_INCREMENT":"80.000 km"
+      },
+      "226":{
+         "GRID":"Regional grid over the contiguous United States - 8XResolution(10 km) (Used by the Radar mosaics) (Lambert Conformal).",
+         "GRID_INCREMENT":"10.1588125 km"
+      },
+      "227":{
+         "GRID":"Regional grid over the contiguous United States - 16XResolution (5 km - Lambert Conformal) (Used for Smoke and Dust system output products)",
+         "GRID_INCREMENT":"5.079 km"
+      },
+      "228":{
+         "GRID":"Global (longitude/latitude grid).",
+         "GRID_INCREMENT":"2.500 degrees"
+      },
+      "229":{
+         "GRID":"Global (longitude/latitude grid).",
+         "GRID_INCREMENT":"1.000 degrees"
+      },
+      "230":{
+         "GRID":"Global (longitude/latitude grid).",
+         "GRID_INCREMENT":"0.500 degrees"
+      },
+      "231":{
+         "GRID":"Northern Hemisphere (longitude/latitude grid).",
+         "GRID_INCREMENT":"0.500 degrees"
+      },
+      "232":{
+         "GRID":"Northern Hemisphere (longitude/latitude grid).",
+         "GRID_INCREMENT":"1.000 degree"
+      },
+      "233":{
+         "GRID":"Regional (longitude/latitude grid).",
+         "GRID_INCREMENT":"1.250 X 1.000 degrees"
+      },
+      "234":{
+         "GRID":"Regional (longitude/latitude grid).",
+         "GRID_INCREMENT":"0.250 degrees"
+      },
+      "235":{
+         "GRID":"Global (longitude/latitude grid).",
+         "GRID_INCREMENT":""
+      },
+      "236":{
+         "GRID":"Regional - CONUS (Lambert Conformal)",
+         "GRID_INCREMENT":"40.63525 km"
+      },
+      "237":{
+         "GRID":"Puerto Rico FAA Regional Grid (Lambert Conformal)",
+         "GRID_INCREMENT":"32.46341 km"
+      },
+      "238":{
+         "GRID":"Western North Atlantic (longitude/latitude grid)",
+         "GRID_INCREMENT":""
+      },
+      "239":{
+         "GRID":"Alaska Regional (longitude/latitude grid)",
+         "GRID_INCREMENT":""
+      },
+      "240":{
+         "GRID":"HRAP Grid over the Contiguous United States andPuerto Rico (Polar Stereographic)",
+         "GRID_INCREMENT":"4.7625 km"
+      },
+      "241":{
+         "GRID":"Regional - NOAMHI - High Resolution North AmericanGrid (Lambert Conformal)",
+         "GRID_INCREMENT":"22.00000 km"
+      },
+      "242":{
+         "GRID":"Grid over Alaska - Quadruple Resolution Grid (PolarStereographic)",
+         "GRID_INCREMENT":"11.25 km"
+      },
+      "243":{
+         "GRID":"Eastern North Pacific (longitude/latitude grid)",
+         "GRID_INCREMENT":""
+      },
+      "244":{
+         "GRID":"North Atlantic Hurricane (longitude/latitude grid)",
+         "GRID_INCREMENT":"0.250 degrees"
+      },
+      "245":{
+         "GRID":"Regional - NOAMHI - High Resolution over Eastern US(Lambert Conformal for 8 km NMM)",
+         "GRID_INCREMENT":"8.00000 km"
+      },
+      "246":{
+         "GRID":"Regional - NOAMHI - High Resolution over Western US(Lambert Conformal for 8 km NMM)",
+         "GRID_INCREMENT":"8.00000 km"
+      },
+      "247":{
+         "GRID":"Regional - NOAMHI - High Resolution over Central US(Lambert Conformal for 8 km NMM)",
+         "GRID_INCREMENT":"8.00000 km"
+      },
+      "248":{
+         "GRID":"Puerto Rico (longitude/latitude grid)",
+         "GRID_INCREMENT":""
+      },
+      "249":{
+         "GRID":"Grid over Alaska for 10-km Alaska nest (PolarStereographic)",
+         "GRID_INCREMENT":"9.86789 km"
+      },
+      "250":{
+         "GRID":"Grid over Hawaii for 8 km NMM (longitude/latitudegrid)",
+         "GRID_INCREMENT":""
+      },
+      "251":{
+         "GRID":"Coastal Ocean Forecast System Grid - North AtlanticRegion (longitude/latitude grid)",
+         "GRID_INCREMENT":""
+      },
+      "252":{
+         "GRID":"Regional - CONUS (Lambert Conformal)",
+         "GRID_INCREMENT":"20.317625 km"
+      },
+      "253":{
+         "GRID":"Eastern North Pacific Regional(longitude/latitude grid)",
+         "GRID_INCREMENT":""
+      },
+      "254":{
+         "GRID":"Mercatorgrid for Pacific Region",
+         "GRID_INCREMENT":"40km"
+      },
+      "255":{
+         "GRID":"(non-defined grid - specified in the GDS)",
+         "GRID_INCREMENT":""
+      }
+   }
+]

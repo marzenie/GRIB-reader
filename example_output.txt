@@ -1,0 +1,149 @@
+==========================
+
+== General Message Info ==
+
+==========================
+
+Grib Finda at pos: 40
+7777 Find at position: 4574
+Distance bettwen end of grib and start of 7777: 4538
+Whole Message length: 4538
+
+======================
+
+==  Section 1 Data  ==
+
+======================
+
+Section 1 length: 28
+Parameter table Version: 2
+Identification of Center: US National Weather Service - NCEP (WMC)
+process ID number: Analysis from GFS (Global Forecast System)
+Grid Identification info: (37)
+  GRID: "Eight Lat-Lon 1.25x1.25 \"thinned\" grids, covering the globeby octants of 3447points. For WAFS, ICAO, Family of Services (FOS), and Internationalexchange."
+  GRID_INCREMENT: ""
+GDS and BMS: GDS Included BMS Included reserved
+Unit parameters: (33)
+  PARAMETER: "u-component of wind"
+  UNITS: "m/s"
+  ABBREV: null
+Indicator of type of level or layer: (100)
+  MEANING: "isobaric level"
+  CONTENTS (Octets 11 & 12): "pressure in hectoPascals (hPa)(2 octets)"
+  ABBREV: "ISBL"
+Height, pressure, etc. of the level or layer: 850
+YY/MM/DD|HH:MM : 15/3/10|00:00
+Time unit: (1) "Hour"
+P1 - Period of time: 0
+P2 - Period of time: 0
+Time range indicator: 10
+Numbers for last row: 0
+Number missing from averages or accumulation: 0
+Reference century: 21
+Identification of sub Center: 0
+Decimal Scale factor: 1
+
+======================
+
+==  Section 2 Data  ==
+
+======================
+
+Section 2 length: 178
+Number of Vertical Coordinates: 0
+Octet number: 33
+Data representation type: 0
+Numbers of points along a latitude circle: 65535
+Numbers of points along a longitude meridian: 73
+Latitude: 0 degrees
+Longtitude: -30 degrees
+Resolution and component flags: Direction increments given Earth assumed spherical with radius = 6367.47 km reserved (set to 0) u- and v-components of vector quantities resolved relative to easterly and northerly directions reserved (set to 0)
+Latitude of last grid point: 90 degrees
+Longitude of last grid point: 60 degrees
+Longitudinal Direction Increment: 65 degrees
+Latitudinal Direction Increment: 1 degrees
+Scanning mode flags : Points scan in -i and +j direction: (FORTRAN: (I,J))
+0
+Wiersz 1 Punktow: 73
+Wiersz 2 Punktow: 73
+Wiersz 3 Punktow: 73
+Wiersz 4 Punktow: 73
+Wiersz 5 Punktow: 73
+Wiersz 6 Punktow: 73
+Wiersz 7 Punktow: 73
+Wiersz 8 Punktow: 73
+Wiersz 9 Punktow: 72
+Wiersz 10 Punktow: 72
+Wiersz 11 Punktow: 72
+Wiersz 12 Punktow: 71
+Wiersz 13 Punktow: 71
+Wiersz 14 Punktow: 71
+Wiersz 15 Punktow: 70
+Wiersz 16 Punktow: 70
+Wiersz 17 Punktow: 69
+Wiersz 18 Punktow: 69
+Wiersz 19 Punktow: 68
+Wiersz 20 Punktow: 67
+Wiersz 21 Punktow: 67
+Wiersz 22 Punktow: 66
+Wiersz 23 Punktow: 65
+Wiersz 24 Punktow: 65
+Wiersz 25 Punktow: 64
+Wiersz 26 Punktow: 63
+Wiersz 27 Punktow: 62
+Wiersz 28 Punktow: 61
+Wiersz 29 Punktow: 60
+Wiersz 30 Punktow: 60
+Wiersz 31 Punktow: 59
+Wiersz 32 Punktow: 58
+Wiersz 33 Punktow: 57
+Wiersz 34 Punktow: 56
+Wiersz 35 Punktow: 55
+Wiersz 36 Punktow: 54
+Wiersz 37 Punktow: 52
+Wiersz 38 Punktow: 51
+Wiersz 39 Punktow: 50
+Wiersz 40 Punktow: 49
+Wiersz 41 Punktow: 48
+Wiersz 42 Punktow: 47
+Wiersz 43 Punktow: 45
+Wiersz 44 Punktow: 44
+Wiersz 45 Punktow: 43
+Wiersz 46 Punktow: 42
+Wiersz 47 Punktow: 40
+Wiersz 48 Punktow: 39
+Wiersz 49 Punktow: 38
+Wiersz 50 Punktow: 36
+Wiersz 51 Punktow: 35
+Wiersz 52 Punktow: 33
+Wiersz 53 Punktow: 32
+Wiersz 54 Punktow: 30
+Wiersz 55 Punktow: 29
+Wiersz 56 Punktow: 28
+Wiersz 57 Punktow: 26
+Wiersz 58 Punktow: 25
+Wiersz 59 Punktow: 23
+Wiersz 60 Punktow: 22
+Wiersz 61 Punktow: 20
+Wiersz 62 Punktow: 19
+Wiersz 63 Punktow: 17
+Wiersz 64 Punktow: 16
+Wiersz 65 Punktow: 14
+Wiersz 66 Punktow: 12
+Wiersz 67 Punktow: 11
+Wiersz 68 Punktow: 9
+Wiersz 69 Punktow: 8
+Wiersz 70 Punktow: 6
+Wiersz 71 Punktow: 5
+Wiersz 72 Punktow: 3
+Wiersz 73 Punktow: 2
+
+======================
+
+==  Section 3 Data  ==
+
+======================
+
+Section 3 length: 4320
+Flag to decode: 2
+Binary Scale Factor: 0

@@ -1,0 +1,644 @@
+[
+   {
+      "0":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "1":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "2":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "3":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "4":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "5":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "6":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "7":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "8":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "9":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "10":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "11":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "12":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "13":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "14":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "15":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "16":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "17":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "18":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "19":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "20":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "21":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "22":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "23":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "24":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "25":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "26":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "27":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "28":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "29":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "30":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "31":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "32":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "33":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "34":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "35":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "36":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "37":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "38":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "39":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "40":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "41":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "42":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "43":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "44":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "45":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "46":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "47":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "48":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "49":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "50":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "51":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "52":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "53":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "54":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "55":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "56":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "57":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "58":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "59":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "60":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "61":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "62":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "63":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "64":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "65":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "66":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "67":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "68":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "69":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "70":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "71":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "72":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "73":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "74":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "75":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "76":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "77":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "78":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "79":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "80":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "81":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "82":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "83":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "84":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "85":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "86":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "87":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "88":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "89":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "90":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "91":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "92":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "93":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "94":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "95":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "96":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "97":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "98":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "99":{
+         "MEANING":"special codes, See Table 3a",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "100":{
+         "MEANING":"isobaric level",
+         "CONTENTS":"pressure in hectoPascals (hPa)(2 octets)",
+         "ABBREV":"ISBL"
+      },
+      "101":{
+         "MEANING":"layer between two isobaric levels",
+         "CONTENTS":"pressure of top (kPa)",
+         "ABBREV":"pressure of bottom (kPa)"
+      },
+      "102":{
+         "MEANING":"mean sea level",
+         "CONTENTS":"0",
+         "ABBREV":"0"
+      },
+      "103":{
+         "MEANING":"Specified altitude above MSL",
+         "CONTENTS":"altitude in meters",
+         "ABBREV":"GPML"
+      },
+      "104":{
+         "MEANING":"layer between two specified altitudes above MSL",
+         "CONTENTS":"altitude of top(hm)",
+         "ABBREV":"altitude of bottom(hm)"
+      },
+      "105":{
+         "MEANING":"specified height level above ground",
+         "CONTENTS":"height in meters(2 octets)",
+         "ABBREV":"HTGL"
+      },
+      "106":{
+         "MEANING":"layer between two specified height levels above ground",
+         "CONTENTS":"height of top(hm)",
+         "ABBREV":"height of bottom(hm)"
+      },
+      "107":{
+         "MEANING":"sigma level",
+         "CONTENTS":"sigma value in 1/10000(2 octets)",
+         "ABBREV":"SIGL"
+      },
+      "108":{
+         "MEANING":"layer between two sigma levels",
+         "CONTENTS":"sigma value at top in 1/100",
+         "ABBREV":"sigma value at bottom in 1/100"
+      },
+      "109":{
+         "MEANING":"Hybrid level",
+         "CONTENTS":"level number(2 octets)",
+         "ABBREV":"HYBL"
+      },
+      "110":{
+         "MEANING":"layer between two hybrid levels",
+         "CONTENTS":"level number at top",
+         "ABBREV":"level number at bottom"
+      },
+      "111":{
+         "MEANING":"depth below land surface",
+         "CONTENTS":"centimeters(2 octets)",
+         "ABBREV":"DBLL"
+      },
+      "112":{
+         "MEANING":"layer between two depths below land surface",
+         "CONTENTS":"depth of upper surface (cm)",
+         "ABBREV":"depth of lower surface (cm)"
+      },
+      "113":{
+         "MEANING":"isentropic (theta) level",
+         "CONTENTS":"Potential Temperature (K)(2 octets)",
+         "ABBREV":"THEL"
+      },
+      "114":{
+         "MEANING":"layer between two isentropic levels",
+         "CONTENTS":"475 K minus theta of top in K",
+         "ABBREV":"475 K minus theta of bottom in K"
+      },
+      "115":{
+         "MEANING":"level at specified pressure difference from ground to level",
+         "CONTENTS":"Pressure difference in hPa(2 octets)",
+         "ABBREV":"SPDL"
+      },
+      "116":{
+         "MEANING":"layer between two levels at specified pressure differencefrom ground to level",
+         "CONTENTS":"pressure difference from ground to top level in hPa",
+         "ABBREV":"pressure difference from ground to bottom level in hPa"
+      },
+      "117":{
+         "MEANING":"potential vorticity(pv) surface",
+         "CONTENTS":"pv value in units of 10-9Km2/kgs(2 octets)",
+         "ABBREV":"PVL"
+      },
+      "119":{
+         "MEANING":"NAM level",
+         "CONTENTS":"NAM value in 1/10000(2 octets)",
+         "ABBREV":"NAML"
+      },
+      "120":{
+         "MEANING":"layer between two NAM levels",
+         "CONTENTS":"NAM value at top of layer in 1/100",
+         "ABBREV":"NAM value at bottom of layer in 1/100"
+      },
+      "121":{
+         "MEANING":"layer between two isobaric surfaces (high precision)",
+         "CONTENTS":"1100 hPa minus pressure of top, in hPa",
+         "ABBREV":"1100 hPa minus pressure of bottom, in hPa"
+      },
+      "125":{
+         "MEANING":"specified height level above ground (high precision)",
+         "CONTENTS":"Height in centimeters(2 octets)",
+         "ABBREV":"HGLH"
+      },
+      "126":{
+         "MEANING":"isobaric level",
+         "CONTENTS":"pressure in Pascals (Pa)(2 octets)",
+         "ABBREV":"ISBP"
+      },
+      "128":{
+         "MEANING":"layer between two sigma levels (high precision)",
+         "CONTENTS":"1.1 minus sigma of top, in 1/1000 of sigma",
+         "ABBREV":"1.1 minus sigma of bottom, in 1/1000 of sigma"
+      },
+      "141":{
+         "MEANING":"layer between two isobaric surfaces (mixed precision)",
+         "CONTENTS":"pressure of top, in hPa",
+         "ABBREV":"1100hPa minus pressure of bottom, in hPa"
+      },
+      "160":{
+         "MEANING":"depth below sea level",
+         "CONTENTS":"Depth in meters(2 octets)",
+         "ABBREV":"DBSL"
+      },
+      "200":{
+         "MEANING":"entire atmosphere (considered as a single layer)",
+         "CONTENTS":"0(2 octets)",
+         "ABBREV":"EATM"
+      },
+      "201":{
+         "MEANING":"entire ocean (considered as a single layer)",
+         "CONTENTS":"0(2 octets)",
+         "ABBREV":"EOCN"
+      }
+   }
+]
