@@ -15,8 +15,7 @@ https://www.nco.ncep.noaa.gov/pmb/docs/on388/
 Do czytania bajtów z pliku najlepiej użyć metody read(tablica, rozmiar);
 
 */
-int main()
-{
+int main() {
 	fstream grib;
 	//Otwarcie pliku w trybie do odczytu oraz trybie binarnym, koniecznie użyć binarnego or - | do złączenia tych flag
 	grib.open("all.grib", std::ios::in | std::ios::binary);
@@ -46,19 +45,16 @@ std::cout << R"(
 )";
 
 	//Szukamy "GRIB" w pliku
-	while (!grib.eof())
-	{
+	while (!grib.eof()) {
 		grib.read(&byte, 1);
 		//Jeżeli znalazłem G
-		if (byte == 'G')
-		{
+		if (byte == 'G') {
 			//Wczytaj kolejne 3 bajty
 			grib.read(&byte2, 1);
 			grib.read(&byte3, 1);
 			grib.read(&byte4, 1);
 
-			if (byte2 == 'R' && byte3 == 'I' && byte4 == 'B')
-			{
+			if (byte2 == 'R' && byte3 == 'I' && byte4 == 'B') {
 				//I jeżeli są rowne RIB to znalazłem słowo GRIB
 				std::cout << "Grib Finda at pos: " << (uint32_t)grib.tellg() - 4 << "\n";
 				//Start sekcji 0 to aktualna pozycja (tellg)  - 4 bajty ( dlugosc słowa GRIB)
@@ -70,17 +66,14 @@ std::cout << R"(
 
 	int pos7777 = 0;
 	//Szukamy 7777 oznaczajacego koniec pliku
-	while (!grib.eof())
-	{
+	while (!grib.eof()) {
 		grib.read(&byte, 1);
-		if (byte == '7')
-		{
+		if (byte == '7') {
 			grib.read(&byte2, 1);
 			grib.read(&byte3, 1);
 			grib.read(&byte4, 1);
 
-			if (byte2 == '7' && byte3 == '7' && byte4 == '7')
-			{
+			if (byte2 == '7' && byte3 == '7' && byte4 == '7') {
 				pos7777 = (int)grib.tellg() - 4;
 				std::cout << "7777 Find at position: " << pos7777 << "\n";
 				break;
@@ -117,8 +110,7 @@ std::cout << R"(
 
 	//Wczytujemy kolejno trzy bajty i umieszczamy je w 4 bajtowej zmiennej
 	uint32_t section_1_length = 0;
-	for (int i = 0; i < 3; ++i)
-	{
+	for (int i = 0; i < 3; ++i) {
 		uint8_t tmp;
 		grib >> tmp;
 
@@ -157,10 +149,10 @@ std::cout << R"(
 	binary = std::bitset<8>((int)byte_char).to_string();
 	for (std::string::size_type i = 0; i < binary.size(); ++i) {
 		if (i == 0) {
-			output_GDS_BMS += (binary[i] == 0) ? "GDS Omitted " : "GDS Included ";
+			output_GDS_BMS += (binary[i] == '0') ? "GDS Omitted " : "GDS Included ";
 			continue;
 		}else if (i == 1) {
-			output_GDS_BMS += (binary[i] == 0) ? "BMS Omitted" : "BMS Included";
+			output_GDS_BMS += (binary[i] == '0') ? "BMS Omitted" : "BMS Included";
 			continue;
 		}
 
